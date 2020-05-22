@@ -1,0 +1,25 @@
+{
+"sites":[
+{
+    "site_name":"x",
+    "dept" : "",
+    "user" : "**",
+    "pass" : "**",
+    "email" : "" 
+},
+{
+    "site_name":"y",
+    "dept" : "",
+    "user" : "**",
+    "pass" : "**",
+    "email" : "" 
+},
+{
+    "site_name":"z",
+    "dept" : "",
+    "user" : "**",
+    "pass" : "**",
+    "email" : "" 
+},
+]
+}
